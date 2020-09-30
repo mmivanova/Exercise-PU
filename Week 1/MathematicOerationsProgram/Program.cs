@@ -10,7 +10,7 @@ namespace MathematicOerationsProgram
     {
         static void Main(string[] args)
         {
-            //So many quiestions??????
+            //So many questions??????
             int firstProblem = -1 + 4 * 6;
             int secondProblem = (35 + 5) % 7;
             int thirdProblem = 14 + -4 * 6 / 11;
